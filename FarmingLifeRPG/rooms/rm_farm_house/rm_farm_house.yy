@@ -2,7 +2,7 @@
 {
     "name": "rm_farm_house",
     "id": "8d274725-f1ea-4ee2-b149-8ed01fac21fb",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -445,7 +445,7 @@
     },
     "mvc": "1.0",
     "views": [
-{"id": "a1770aa4-8b0c-4ef8-90f6-d833b5959078","hborder": 32,"hport": 240,"hspeed": -1,"hview": 480,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": true,"vspeed": -1,"wport": 320,"wview": 640,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
+{"id": "a1770aa4-8b0c-4ef8-90f6-d833b5959078","hborder": 32,"hport": 1536,"hspeed": -1,"hview": 480,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": true,"vspeed": -1,"wport": 1536,"wview": 640,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "0519fa75-123c-454d-9f9c-0d76d3447d74","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "da58d4ae-48d1-462f-88b6-229aa1642add","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "bed4ff9d-c50d-40a6-9dfc-2c143c443e76","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
